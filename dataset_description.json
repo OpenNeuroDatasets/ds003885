@@ -1,5 +1,5 @@
 {
-    "Name": "Movement data: EEG Experiment ",
+    "Name": "Capacity for movement is a major organisational principle in object representations: EEG data from Experiment 2",
     "BIDSVersion": "1.0.2",
     "DatasetType": "raw",
     "License": "CC0",
@@ -12,8 +12,7 @@
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [
-      "ARC DP160101300 (TAC)",
-      "ARC DP200101787 (TAC)"
+        "ARC DP160101300 (TAC)",
+        "ARC DP200101787 (TAC)"
     ]
-
 }
